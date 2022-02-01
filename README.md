@@ -2,7 +2,7 @@
 
 ## Uygulamanın Build Edilmesi
 
-**Öncelikle uygulamamızı docker üzerinden Dockerfile kullanarak containerize ettim ve Docker Hub'a kendi repository'me push'ladım.** <br/>
+**Öncelikle uygulamamızı Docker üzerinden Dockerfile kullanarak containerize ettim ve Docker Hub'a kendi repository'me push'ladım.** <br/>
 
 **Uygulamamızı build etmek için öncelikle shell'imize girerek container'ımızı repository'den pull işlemi ile alıyoruz.**
 
