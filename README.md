@@ -1,6 +1,18 @@
 # Case Study
 
-## Uygulamanın Build Edilmesi
+## Görev(1): API'nin Oluşturulması
+
+**API'yi oluşturmak için Flask Framework kullanmayı tercih ettim.**
+
+**API'mizdeki hava durumu bilgilerinin kaynağı için openweathermap isimli siteyi kullandım.**<br/>
+[Openweahermap.org](https://openweathermap.org/)
+
+### Uygulamamızın oluşturulması:
+
+
+
+
+## Görev(2): Uygulamanın Docker Üzerinden Containerize ve Build Edilmesi
 
 **Öncelikle uygulamamızı Docker üzerinden Dockerfile kullanarak containerize ettim ve Docker Hub'a kendi repository'me push'ladım.** <br/>
 
