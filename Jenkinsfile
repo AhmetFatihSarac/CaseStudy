@@ -8,8 +8,8 @@ pipeline {
 
 
 			steps{
-				sh 'docker pull python:2.7.16'
-				sh 'python --version'
+				 docker pull python:2.7.16
+				 python --version
 	}
 
 
