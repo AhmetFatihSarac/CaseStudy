@@ -8,7 +8,16 @@
 [Openweahermap.org](https://openweathermap.org/)
 
 ### Uygulamamızın oluşturulması:
-
+**1.adım:**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/1/1.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/1/1.PNG)<br/>
+**2.adım:**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/2/2.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/2/2.PNG)<br/>
+**3.adım:**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/3/3.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/3/3.PNG)<br/>
+**4.adım:**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/4/4.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/4/4.PNG)<br/>
+**5.adım:**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/5/5.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/5/5.PNG)<br/>
 
 
 
