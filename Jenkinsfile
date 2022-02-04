@@ -8,7 +8,7 @@ pipeline {
 
 
 			steps{
-				powershell 'docker pull python:2.7.16'
+				powershell 'docker pull python:3.9.10'
 				powershell 'python --version'
 	}
 
