@@ -8,7 +8,7 @@ pipeline {
 
 
 			steps{
-				powershell 'Write-Output "Hello, World!"'
+				powershell 'python --version'
 	}
 
 
