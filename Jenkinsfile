@@ -5,6 +5,13 @@ pipeline {
 	stages {
 	
 	
+	stage('Chocolatey Download'){
+		
+			steps{
+				powershell 'Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))'
+			}
+		
+		}
 		
 
 		stage('Python Download'){
@@ -39,13 +46,7 @@ pipeline {
 			}
 		}
 		
-		stage('Pulling files from repository '){
-			
-			steps{
-				
-			}
 		
-		}
    }
 
 
