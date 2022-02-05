@@ -123,6 +123,42 @@ pipeline {
 }
 ```
 
+### Jenkins'de Pipeline Görevi Oluşturma:
+**Öncelikle oluşturmuş olduğumuz Pipeline dosyası (Jenkinsfile)'ı Github Repository'mize aktarıyoruz.**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.2.png](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.2.png)<br/>
+
+**Sonra Jenkins'e gelerek bir pipeline görevi oluşturup Github'dan Jenkinsfile'ımızı çekiyoruz.**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.3.png](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.3.png)<br/>
+
+**Sonra ise kaydetmiş olduğumuz pipeline görevini yapılandırıp çalıştırıyoruz ve işlem adımlarını görüyoruz.**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.4.png](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.4.png)<br/>
+
+**Son olarak çalıştırdığımız pipeline görevinin loglarını inceleyebiliriz.**<br/>
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.5.png](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.5.png)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.6.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.6.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.7.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.7.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.8.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.8.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.9.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.9.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.10.png](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.10.png)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.11.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.11.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.12.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.12.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.13.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.13.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.14.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.14.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.15.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.15.PNG)<br/>
+
+![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.16.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/7/3.16.PNG)<br/>
+
+
 
 
 **AHMET FATİH SARAÇ**
