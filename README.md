@@ -1,4 +1,7 @@
 # Case Study
+```
+deneme
+```
 
 ## Görev(1): API'nin Oluşturulması
 
@@ -34,7 +37,10 @@
 **cd komtu ile bulunduğumuz klasörden uygulamamızın klasörüne geçiş yapıyoruz.**<br/>
 ![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.3/2.3.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.3/2.3.PNG)<br/>
 **4.adım:**<br/>
-**` docker image build -t ahmetfatih024/casestudy .` komutu ile uygulamamızın image'ini oluşturduk.**<br/>
+``` 
+docker image build -t ahmetfatih024/casestudy .
+``` 
+**komutu ile uygulamamızın image'ini oluşturduk.**<br/>
 ![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.4/2.4.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.4/2.4.PNG)<br/>
 **5.adım:**<br/>
 **`docker image push ahmetfatih024/casestudy` komutu ile oluşturduğumuz image'i DockerHub ortamına repository'me ekledim.**<br/>
