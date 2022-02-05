@@ -1,7 +1,4 @@
 # Case Study
-```
-deneme
-```
 
 ## Görev(1): API'nin Oluşturulması
 
@@ -43,11 +40,23 @@ docker image build -t ahmetfatih024/casestudy .
 **komutu ile uygulamamızın image'ini oluşturduk.**<br/>
 ![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.4/2.4.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.4/2.4.PNG)<br/>
 **5.adım:**<br/>
-**`docker image push ahmetfatih024/casestudy` komutu ile oluşturduğumuz image'i DockerHub ortamına repository'me ekledim.**<br/>
+```
+docker image push ahmetfatih024/casestudy
+```
+**komutu ile oluşturduğumuz image'i DockerHub ortamına repository'me ekledim.**<br/>
 ![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.5/2.5.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.5/2.5.PNG)<br/>
-**Daha sonra image'e ulaşmak istersek `docker pull ahmetfatih024/casestudy:latest` komutu ile DockerHub ortamından kendi sistemimize çekebiliriz.**<br/>
+**Daha sonra image'e ulaşmak istersek**
+```
+docker pull ahmetfatih024/casestudy:latest 
+```
+**komutu ile DockerHub ortamından kendi sistemimize çekebiliriz.**<br/>
+
 **6.adım:**<br/>
-**Son olarak `docker container run  -p 5000:5000 ahmetfatih024/casestudy` komutu ile oluşturduğumuz image'den bir container ayağa kaldırarak uygulamamızı çalıştırdık.**<br/>
+**Son olarak**
+```
+docker container run  -p 5000:5000 ahmetfatih024/casestudy
+```
+**komutu ile oluşturduğumuz image'den bir container ayağa kaldırarak uygulamamızı çalıştırdık.**<br/>
 ![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.6/2.6.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.6/2.6.PNG)<br/>
 ![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.7/2.7.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.7/2.7.PNG)<br/>
 ![(Görüntü yüklenmiyorsa lütfen linki kopyalayınız, tıklamayınız !)https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.8/2.8.PNG](https://github.com/AhmetFatihSarac/CaseStudy/blob/main/images/6/2.8/2.8.PNG)<br/>
